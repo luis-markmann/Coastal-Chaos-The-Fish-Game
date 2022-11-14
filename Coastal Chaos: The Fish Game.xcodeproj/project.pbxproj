@@ -13,7 +13,6 @@
 		CAFBA6372922D24C006B6AE5 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = CAFBA6362922D24C006B6AE5 /* Preview Assets.xcassets */; };
 		CAFBA6392922D24C006B6AE5 /* Persistence.swift in Sources */ = {isa = PBXBuildFile; fileRef = CAFBA6382922D24C006B6AE5 /* Persistence.swift */; };
 		CAFBA63C2922D24C006B6AE5 /* Coastal_Chaos__The_Fish_Game.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = CAFBA63A2922D24C006B6AE5 /* Coastal_Chaos__The_Fish_Game.xcdatamodeld */; };
-		CAFBA6432922D289006B6AE5 /* File.rtf in Resources */ = {isa = PBXBuildFile; fileRef = CAFBA6422922D289006B6AE5 /* File.rtf */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,7 +23,6 @@
 		CAFBA6362922D24C006B6AE5 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		CAFBA6382922D24C006B6AE5 /* Persistence.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Persistence.swift; sourceTree = "<group>"; };
 		CAFBA63B2922D24C006B6AE5 /* Coastal_Chaos__The_Fish_Game.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = Coastal_Chaos__The_Fish_Game.xcdatamodel; sourceTree = "<group>"; };
-		CAFBA6422922D289006B6AE5 /* File.rtf */ = {isa = PBXFileReference; lastKnownFileType = text.rtf; path = File.rtf; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,7 +57,6 @@
 			children = (
 				CAFBA62F2922D24C006B6AE5 /* Coastal_Chaos__The_Fish_GameApp.swift */,
 				CAFBA6312922D24C006B6AE5 /* ContentView.swift */,
-				CAFBA6422922D289006B6AE5 /* File.rtf */,
 				CAFBA6332922D24C006B6AE5 /* Assets.xcassets */,
 				CAFBA6382922D24C006B6AE5 /* Persistence.swift */,
 				CAFBA63A2922D24C006B6AE5 /* Coastal_Chaos__The_Fish_Game.xcdatamodeld */,
@@ -136,7 +133,6 @@
 			files = (
 				CAFBA6372922D24C006B6AE5 /* Preview Assets.xcassets in Resources */,
 				CAFBA6342922D24C006B6AE5 /* Assets.xcassets in Resources */,
-				CAFBA6432922D289006B6AE5 /* File.rtf in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
