@@ -8,14 +8,15 @@ xxx
 
  ## Ziele
  ---
- * [X] Das Spiel machen
+ * [x] Die Idee für das Spiel bekommen
+ * [ ] Das Spiel machen
 
  ### Ziele - Unterpunkt
  ---
- * [X] Ziel 1
-   * [X] Ziel 1.1
-   * [X] Ziel 1.2
- * [X] Ziel 2
+ * [ ] Ziel 1
+   * [ ] Ziel 1.1
+   * [ ] Ziel 1.2
+ * [ ] Ziel 2
 
 ---
 # Abschlusswort
