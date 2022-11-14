@@ -8,14 +8,14 @@ xxx
 
  ## Ziele
  ---
- * [] Das Spiel machen
+ * [X] Das Spiel machen
 
  ### Ziele - Unterpunkt
  ---
- * [] Ziel 1
-   * [] Ziel 1.1
-   * [] Ziel 1.2
- * [] Ziel 2
+ * [X] Ziel 1
+   * [X] Ziel 1.1
+   * [X] Ziel 1.2
+ * [X] Ziel 2
 
 ---
 # Abschlusswort
