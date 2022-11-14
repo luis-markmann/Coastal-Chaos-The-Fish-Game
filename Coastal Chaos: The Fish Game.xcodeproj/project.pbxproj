@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		A75F14192922D47200394318 /* REAME.md in Resources */ = {isa = PBXBuildFile; fileRef = A75F14182922D47200394318 /* REAME.md */; };
 		CAFBA6302922D24C006B6AE5 /* Coastal_Chaos__The_Fish_GameApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = CAFBA62F2922D24C006B6AE5 /* Coastal_Chaos__The_Fish_GameApp.swift */; };
 		CAFBA6322922D24C006B6AE5 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = CAFBA6312922D24C006B6AE5 /* ContentView.swift */; };
 		CAFBA6342922D24C006B6AE5 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = CAFBA6332922D24C006B6AE5 /* Assets.xcassets */; };
@@ -16,6 +17,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		A75F14182922D47200394318 /* REAME.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = REAME.md; sourceTree = "<group>"; };
 		CAFBA62C2922D24C006B6AE5 /* Coastal Chaos: The Fish Game.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Coastal Chaos: The Fish Game.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		CAFBA62F2922D24C006B6AE5 /* Coastal_Chaos__The_Fish_GameApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Coastal_Chaos__The_Fish_GameApp.swift; sourceTree = "<group>"; };
 		CAFBA6312922D24C006B6AE5 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -39,6 +41,7 @@
 		CAFBA6232922D24B006B6AE5 = {
 			isa = PBXGroup;
 			children = (
+				A75F14182922D47200394318 /* REAME.md */,
 				CAFBA62E2922D24C006B6AE5 /* Coastal Chaos: The Fish Game */,
 				CAFBA62D2922D24C006B6AE5 /* Products */,
 			);
@@ -132,6 +135,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				CAFBA6372922D24C006B6AE5 /* Preview Assets.xcassets in Resources */,
+				A75F14192922D47200394318 /* REAME.md in Resources */,
 				CAFBA6342922D24C006B6AE5 /* Assets.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
